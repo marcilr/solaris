@@ -1,0 +1,12 @@
+solaris.txt
+Created Tue Dec 11 10:04:05 AST 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Solaris operating system
+
+
+Links
+=====
+Solaris (operating system) - Wikipedia
+https://en.wikipedia.org/wiki/Solaris_(operating_system)
