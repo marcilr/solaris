@@ -1,3 +1,13 @@
 links.txt
 Created Tue Dec 11 10:04:15 AST 2018
-by Raymond E. Marcil <ray.marcil@alaska.gov>
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Solaris related links
+
+
+Links
+=====
+Solaris (operating system)
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Solaris_(operating_system)
